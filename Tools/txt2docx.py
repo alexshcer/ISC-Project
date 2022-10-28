@@ -1,14 +1,14 @@
-import aspose.words as aw
+from docx import Document
+import re
+import os
 
-fileNames = ["../Program-01/question.txt"]
+path = '../'
+direct = os.listdir(path)
 
-output = aw.Document()
-# Remove all content from the destination document before appending.
-output.remove_all_children()
-
-for fileName in fileNames:
-    input = aw.Document(fileName)
-    # Append the source document to the end of the destination document.
-    output.append_document(input, aw.ImportFormatMode.KEEP_SOURCE_FORMATTING)
-
-output.save("Output.docx");
+for i in direct:
+    document = Document()
+    document.add_heading(i, 0)
+    file = open('../'+i+'/question.txt').read()
+    file = re.sub(r'[^\x00-\x7F]+|\x0c',' ', file) # remove all non-XML-compatible characters
+    p = document.add_paragraph(file)
+    document.save('../'+i+'/question.docx')
