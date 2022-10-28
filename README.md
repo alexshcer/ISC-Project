@@ -1,27 +1,25 @@
 # ISC Project 2022
 
+Here everything is ready see [Final](https://github.com/alexshcer/ISC-Project/tree/main/Final) for all the pdf and docx and wait for the full merged file.
+
 <h2>Requirements</h2>
 
 [JDK](https://www.java.com/en/download/) <br>
 [Visual Studio Code](https://code.visualstudio.com/) or any other code editor <br>
 [Git](https://git-scm.com/downloads)
 
-For python scripts:
-    pdf2docx
-    python-docx
+For python scripts:<br>
+- pdf2docx
+- python-docx
 
-For shell scripts:
-    pandoc
+For shell scripts:<br>
+- pandoc
 
 <h2>How to run.</h2>
 
 - Please ensure that you have installed JDK in your device.
 
 - To check the working of the codes, You can go to the directory and type `java <file_name>.java`.
-
-<h2>Working on:</h2>
-
-- To generate the perfect doc file, with is ready to print.
 
 <h2>Developers</h2>
 
