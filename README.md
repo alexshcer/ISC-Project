@@ -4,8 +4,10 @@ Here everything is ready see [Final](https://github.com/alexshcer/ISC-Project/tr
 
 <h2>Requirements</h2>
 
-[JDK](https://www.java.com/en/download/) <br>
-[Git](https://git-scm.com/downloads)
+<h1>General:<br></h1>
+- [JDK](https://www.java.com/en/download/) <br>
+- [Git](https://git-scm.com/downloads) <br>
+- Any text editor
 
 <h1>For python scripts:<br></h1>
 - pdf2docx
