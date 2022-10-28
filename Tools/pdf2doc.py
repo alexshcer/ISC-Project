@@ -1,3 +1,5 @@
+"""author: alexshcer"""
+
 from pdf2docx import Converter
 
 x=1

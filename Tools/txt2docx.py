@@ -1,3 +1,5 @@
+"""author: alexshcer"""
+
 from docx import Document
 import re
 import os
