@@ -1,3 +1,5 @@
+\pagenumbering{gobble}
+
 # ALGORITHM
 
 - Step-1 :- START
@@ -27,6 +29,5 @@
 
 # OUTPUT
 
-<p align="center">
-<img width="auto" height="auto" alt="output" src="./output.png">
-</p>
+
+![](output.png)

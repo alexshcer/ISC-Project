@@ -1,3 +1,5 @@
+\pagenumbering{gobble}
+
 # ALGORITHM
 
 - Step-1 :- START
@@ -23,7 +25,6 @@
 | 7 | i | int | Looping variable in *freq_vow_con()* & *arrange()* |
 
 # OUTPUT
+ 
 
-<p align="center">
-<img width="auto" height="auto" alt="output" src="./output.png">
-</p>
+![](output.png)
