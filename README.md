@@ -5,15 +5,18 @@ Here everything is ready see [Final](https://github.com/alexshcer/ISC-Project/tr
 <h2>Requirements</h2>
 
 <h1>General:<br></h1>
+
 - [JDK](https://www.java.com/en/download/) <br>
 - [Git](https://git-scm.com/downloads) <br>
 - Any text editor
 
 <h1>For python scripts:<br></h1>
+
 - pdf2docx
 - python-docx
 
 <h1>For shell scripts:<br></h1>
+
 - pandoc
 
 <h2>How to run.</h2>
