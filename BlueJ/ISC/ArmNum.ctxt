@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArmNum
+comment1.params=num
+comment1.target=ArmNum(int)
+comment2.params=i
+comment2.target=int\ sum_pow(int)
+comment3.params=
+comment3.target=void\ isArmstrong()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

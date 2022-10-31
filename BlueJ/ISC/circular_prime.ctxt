@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=circular_prime
+comment1.params=num
+comment1.target=boolean\ isPrime(int)
+comment2.params=num
+comment2.target=int\ getDigitCount(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

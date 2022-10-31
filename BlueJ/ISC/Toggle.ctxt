@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Toggle
+comment1.params=
+comment1.target=Toggle()
+comment2.params=
+comment2.target=void\ readword()
+comment3.params=
+comment3.target=void\ toggle()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

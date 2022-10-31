@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Capital
+comment1.params=
+comment1.target=Capital()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=w
+comment3.target=boolean\ isCap(java.lang.String)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

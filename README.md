@@ -1,6 +1,6 @@
 # ISC Project 2022
 
-Here everything is ready see [Final](https://github.com/alexshcer/ISC-Project/tree/main/Final) for all the .pdf and .docx and wait for the full merged file.
+The final files for printing is here [Final](https://github.com/alexshcer/ISC-Project/tree/main/Final).
 
 <h2>Requirements</h2>
 

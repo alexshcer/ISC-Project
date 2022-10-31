@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shift
+comment1.params=mm\ nn
+comment1.target=Shift(int,\ int)
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=P
+comment4.target=void\ cyclic(Shift)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=goldbach
+comment1.params=n
+comment1.target=boolean\ even(int)
+comment2.params=n
+comment2.target=boolean\ odd_prime(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
