@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; // importing java package
 
 public class prime_adam {
     public static boolean isPrime(int x) {
